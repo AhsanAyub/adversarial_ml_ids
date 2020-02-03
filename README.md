@@ -2,7 +2,7 @@
 
 The repo is created to maintain the code base of the Adversarial Machine Learning applications, such as, Model Evasion Attack, on the publically accessible dataset of network-based Intrusion Detection System (IDS).
 
-The work has been published at the [22nd IEEE International Conference on Computational Science and Engineering (IEEE CSE 2019)](https://ee-ciss.princeton.edu).
+The work has been published at the [IEEE 2020 54th Annual Conference on Information Sciences and Systems (CISS)](https://ee-ciss.princeton.edu).
 
 ## Citing this work
 If you use our implementation for academic research, you are highly encouraged to cite [our paper]().
