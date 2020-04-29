@@ -5,7 +5,7 @@ The repo is created to maintain the code base of the Adversarial Machine Learnin
 The work has been published at the [IEEE 2020 54th Annual Conference on Information Sciences and Systems (CISS)](https://ee-ciss.princeton.edu).
 
 ## Citing this work
-If you use our implementation for academic research, you are highly encouraged to cite [our paper]().
+If you use our implementation for academic research, you are highly encouraged to cite [our paper](https://ahsanayub.github.io/assets/paper/Authors_Copy_Model_Evasion_Attack_on_Intrusion_Detection_Systems_using_Adversarial_Machine_Learning.pdf).
 
 
 ```
