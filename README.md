@@ -10,12 +10,11 @@ If you use our implementation for academic research, you are highly encouraged t
 
 ```
 @inproceedings{ayub2020model,
-  title={Model Evasion Attack on Intrusion Detection Systems using Adversarial Machine Learning},
-  author={Ayub, Md Ahsan and Johnson, William A and Talbert, Douglas A and Siraj, Ambareen},
-  booktitle={2020 54th Annual Conference on Information Sciences and Systems (CISS)},
-  pages={1--6},
-  year={2020},
-  organization={IEEE}
+  author={M. A. {Ayub} and W. A. {Johnson} and D. A. {Talbert} and A. {Siraj}},
+  booktitle={2020 54th Annual Conference on Information Sciences and Systems (CISS)}, 
+  title={Model Evasion Attack on Intrusion Detection Systems using Adversarial Machine Learning}, 
+  year={2020}
+  pages={1-6}
 }
 ```
 
